@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\bin\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.exe
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\bin\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.deps.json
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\bin\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.runtimeconfig.json
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\bin\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.runtimeconfig.dev.json
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\bin\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.dll
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\bin\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.pdb
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\obj\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\obj\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\obj\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\obj\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.AssemblyInfo.cs
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\obj\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\obj\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.dll
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\obj\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.pdb
+C:\Users\marco\source\repos\TrilhaEngenhariaAutomacao\TrilhaEngenhariaAutomacao\obj\Debug\netcoreapp3.1\TrilhaEngenhariaAutomacao.genruntimeconfig.cache
